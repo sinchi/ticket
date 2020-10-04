@@ -3,4 +3,4 @@
 	url = https://192.168.43.200/sinchi/auth.git
 [submodule "infra"]
 	path = infra
-	url = https://192.168.43.200/sinchi/ticket-infra.git
+	url = https://192.168.43.200/sinchi/infra.git
