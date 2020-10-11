@@ -1,6 +1,10 @@
 [submodule "auth"]
 	path = auth
-	url = https://192.168.43.200/sinchi/auth.git
+	url = https://github.com/sinchi/auth.git
 [submodule "infra"]
 	path = infra
-	url = https://192.168.43.200/sinchi/infra.git
+	url = https://github.com/sinchi/infra.git
+[submodule "client"]
+	path = client
+	url = https://github.com/sinchi/ticket-client.git
+
